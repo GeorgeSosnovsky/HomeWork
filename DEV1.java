@@ -5,7 +5,7 @@ public class DEV1 {
         System.out.println("3*" + i/3 );
       } else { 
         System.out.println(i);
-      }
+       }
     }
   }
 }
